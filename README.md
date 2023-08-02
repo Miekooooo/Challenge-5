@@ -10,36 +10,42 @@
 3. Reopen page at a later date to review events
 
 ## Description
-- A workday planner
+- A realtime workday planner that saves inputs made by the user that can be opened at a later date.
 
 
-- "what was my motivation?" 
-- "why did I build this project?" 
-- "what problem does it solve?" 
-- "what did I learn?" 
+- "what was my motivation?" Give myself a easy planner to use on a day to day basis.
+- "why did I build this project?" To create a workday planner I can easily use and close at any point.
+- "what problem does it solve?" Gives the user a easy workday planner if they needed or didn't have one.
+- "what did I learn?" How to create a realtime website using jQuery.
 
 ## Features
 
 - Save button
-- Past, Present, and Future indicators
+- Realtime
+- Local storage
 
 ## Screenshots
 
-- 
-- 
-- 
+- ![Alt text](<New time blocks.PNG>)
+- ![Alt text](<Block color logic.PNG>)
+- ![Alt text](<Save button.PNG>)
 
 ## Installation
 
-- 
+- Could be intergrated on work websites or mobile apps.
 
 ## Usage
 
-- 
+- Easy and fast workday planner that can be open and closed at any point.
 
 ## Credits
 
-
+- Google
+- Refactored "Challenge-5 README"
+- The HTML, CSS and JS that was given with assignment
+- https://www.w3schools.com/jsref/met_element_addeventlistener.asp 
+- https://codedamn.com/news/javascript/dollar-sign-in-js
+- https://www.w3schools.com/jquery/jquery_css_classes.asp
 
 ## License 
 
