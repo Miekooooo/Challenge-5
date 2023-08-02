@@ -5,12 +5,12 @@
 - 
 
 ## Instructions
-1. 
-2. 
-3. 
+1. Enter an event into one of the PAST, PRESENT, OR FUTURE blocks
+2. Click the BLUE save button to the right to save the text
+3. Reopen page at a later date to review events
 
 ## Description
-- 
+- A workday planner
 
 
 - "what was my motivation?" 
@@ -20,8 +20,8 @@
 
 ## Features
 
-- 
-- 
+- Save button
+- Past, Present, and Future indicators
 
 ## Screenshots
 
